@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Logo Design",
+        "image": "https://img.freepik.com/free-vector/set-company-logo-design-ideas-vector_53876-64063.jpg?w=2000",
+        "rating": 4.7,
+        "duration": 40,
+        "price": 45,
+        "student": 7560,
+        "description":"Learn Logo Design Theory, The Creative Process, How to Work With Clients & Master Adobe Illustrator Tools",
+        "language": "English",
+        "instructor": "Mohammad Salah"
+    },
+    {
+        "title": "Wordpress for Beginners",
+        "image": "https://templatetoaster.com/wp-content/uploads/2014/03/What-is-WordPress-Facebook.png",
+        "rating": 4.8,
+        "duration": 75.5,
+        "price": 85,
+        "student": 5482,
+        "description":"In 2023, build a beautiful responsive Wordpress site that looks great on all devices. No experience required",
+        "language": "English",
+        "instructor": "Sadio Mane"
+    },
+    {
+        "title": "The Complete JavaScript",
+        "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/7359/course_7359_image.jpg",
+        "rating": 4.6,
+        "duration": 56,
+        "price": 80,
+        "student": 6320,
+        "description":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "language": "English",
+        "instructor": "Thiago Silva"
+    },
+    {
+        "title": "Create Animated Explainer Videos",
+        "image": "https://brightbulbanimations.com/wp-content/uploads/2022/01/what-are-the-benefits-of-animation-based-learning.jpg",
+        "rating": 4.4,
+        "duration": 69,
+        "price": 65,
+        "student": 5862,
+        "description":"Learn to create and animate professional explainer videos with PowerPoint. Master advanced animation in PowerPoint.",
+        "language": "English",
+        "instructor": "Neymar Jr"
+    },
+    {
+        "title": "The Ultimate SEO Training 2023",
+        "image": "https://cdnwp.mobidea.com/academy/wp-content/uploads/2018/04/best-seo-training-courses-760x428-1.png",
+        "rating": 4.5,
+        "duration": 35,
+        "price": 40,
+        "student": 8542,
+        "description":"SEO Training From An SEO Agency Owner: Step By Step Process To Rank #1 on Google. Keyword Research, Technical SEO & More",
+        "language": "English",
+        "instructor": "Rodrygo"
+    },
+    {
+        "title": "C Programming For Beginners",
+        "image": "https://cdn.hackr.io/uploads/posts/large/1651098062J83lDLcARv.png",
+        "rating": 4.9,
+        "duration": 80,
+        "price": 90,
+        "student": 4530,
+        "description":"C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained",
+        "language": "English",
+        "instructor": "Richarlison"
+    },
+    {
+        "title": "Work From Home in Translation",
+        "image": "https://www.lexika-translations.com/wp-content/uploads/2021/11/What-is-translation.png",
+        "rating": 4.6,
+        "duration": 45,
+        "price": 70,
+        "student": 6720,
+        "description":"Master Translation Cat Tools, Be a Freelance Translator on Upwork, and Find Work From Home Jobs!",
+        "language": "English",
+        "instructor": "Gabriel Martinelli"
+    },
+    {
+        "title": "Social Media Marketing",
+        "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2022/04/19/1506964-april-teamology-article-16-dna.png",
+        "rating": 4.6,
+        "duration": 55,
+        "price": 60,
+        "student": 4850,
+        "description":"Master Social Media Marketing & Management, Digital Marketing, Facebook & Ads, Instagram, YouTube, Build a Strategy.",
+        "language": "English",
+        "instructor": "Vinícius Júnior"
+    }
+    
+]
